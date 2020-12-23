@@ -1,7 +1,7 @@
 {
   "name": "vtexgen",
   "description": "The VTEX generator!",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": "https://github.com/pachecovit/vtexgen",
   "author": "Cleber Pacheco <hello@cleberpacheco.com>",
   "preferGlobal": true,
